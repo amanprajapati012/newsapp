@@ -1,0 +1,47 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+      {
+        "source": {
+          "id": "nbc-news",
+          "name": "NBC News"
+        },
+        "author": "Mithil Aggarwal",
+        "title": "The U.S. beat Pakistan in cricket in a historic upset. Will the sport finally go mainstream?",
+        "description": "The U.S. men’s national cricket team defeated Pakistan on Thursday in a historic upset in the T20 World Cup.",
+        "url": "https://www.nbcnews.com/news/world/us-pakistan-cricket-world-cup-historic-upset-rcna155977",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-06/240607-usa-cricket-mb-0807-870332.jpg",
+        "publishedAt": "2024-06-07T11:49:45Z",
+        "content": "Cricket may have finally gotten its moment in the U.S.\r\nThe U.S. mens national cricket team delivered a stunning blow to heavyweight Pakistan in Texas on Thursday during a surprisingly close T20 Worl… [+2505 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-sport",
+          "name": "BBC Sport"
+        },
+        "author": null,
+        "title": "T20 World Cup: USA cricket team shocks Pakistan in Texas",
+        "description": "Why the USA's shock victory over Pakistan in the men's T20 World Cup could be huge for the sport stateside.",
+        "url": "http://www.bbc.co.uk/sport/cricket/articles/cy990k0lwl7o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/a56d/live/cb87b7a0-2444-11ef-a13a-0b8c563da930.jpg",
+        "publishedAt": "2024-06-06T22:52:13.0526211Z",
+        "content": "For cricket to break America, it needed something special. \r\nIt needed drama, entertainment, high-quality skill and a little bit of chaos thrown in. \r\nSo when the co-hosts of the T20 World Cup stunne… [+2323 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-sport",
+          "name": "BBC Sport"
+        },
+        "author": null,
+        "title": "USA beat Pakistan: T20 World Cup upset 'a big day for US cricket'",
+        "description": "USA cricket captain Monank Patel reacts to his side’s stunning super-over win against Pakistan in the T20 World Cup.",
+        "url": "http://www.bbc.co.uk/sport/cricket/videos/cj55e9e8j5po",
+        "urlToImage": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/56d5/live/d9c629f0-2449-11ef-a13a-0b8c563da930.jpg",
+        "publishedAt": "2024-06-06T21:37:17.1613022Z",
+        "content": "'Unbelievable win over Pakistan a big day for US cricket' Video, 00:00:45'Unbelievable win over Pakistan a big day for US cricket'"
+      }
+     
+    
+    ]
+  }

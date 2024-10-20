@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# newsapp
-  This News App is a React-based web application that provides the latest news from various categories like Technology, Sports, and more.   The app fetches real-time data using the **NewsAPI** and offers users an easy-to-navigate interface to explore the latest headlines.
-=======
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -72,4 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 3d52a38 (Initialize project using Create React App)
